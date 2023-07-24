@@ -9,4 +9,4 @@ opencv-python-headless
 pyyaml==5.1
 torch
 torchvision
-# git+https://github.com/facebookresearch/detectron2.git
+git+https://github.com/facebookresearch/detectron2.git
