@@ -1,0 +1,12 @@
+Pillow
+streamlit
+streamlit-option-menu
+st-annotated-text
+pandas
+numpy
+matplotlib
+opencv-python-headless
+pyyaml==5.1
+torch
+torchvision
+# git+https://github.com/facebookresearch/detectron2.git
